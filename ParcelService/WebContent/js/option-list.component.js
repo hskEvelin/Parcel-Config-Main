@@ -5,7 +5,7 @@ angular.
 	  transclude: true,
 	  template:
     	'<div class="w3-panel w3-card-2">'+
-    		'<div class="w3-container w3-green">'+
+    		'<div class="w3-container w3-teal">'+
     			'<h2>Lieferoptionen</h2>'+
     		'</div>' +
 	    	'<div class="w3-cell-row" style="width:75%">'+
